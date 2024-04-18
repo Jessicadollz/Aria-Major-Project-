@@ -1,0 +1,16 @@
+:root {
+    --light-green: #13BE98;
+    --white: #FFFFFF;
+    --grey: #787975;
+    --text-color-light-black: #484a46;
+    --text-color-light-gray: #787976;
+    --background-color--light: #FBFBFB;
+    --background-color--dark: #153E52;
+    --background-color--textbox: #2A5E77;
+    --nav-background: #113448;
+    --services-background: #fbfbfb;
+    --card-border: #ebe8e8;
+    --input-background: #2a5d77;
+    --input-border: #39728f;
+    --filter-btn-color: #f1f4f7;
+}
